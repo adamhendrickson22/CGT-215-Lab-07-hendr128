@@ -1,0 +1,174 @@
+﻿  CGT-215-Lab-07-hendr128.cpp
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\BoundsCollisionResult.h(8,9): warning C4099: 'sfp::BoundsCollisionResult': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'CGT-215-Lab-07-hendr128.cpp')
+      C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\BoundsCollisionResult.h(8,9):
+      see declaration of 'sfp::BoundsCollisionResult'
+  
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,56): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,56): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,56): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,56): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,37): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,37): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,37): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(21,37): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,37): warning C4305:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,37): warning C4305:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,37): warning C4305:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,37): warning C4305:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,32): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,32): warning C4305:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,32): warning C4305:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,32): warning C4305:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(24,32): warning C4305:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,37): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,37): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,37): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,37): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,28): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,28): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,28): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(28,28): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,51): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,51): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,51): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,51): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,38): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,38): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,38): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(29,38): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,49): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,49): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,49): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,49): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,31): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,31): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,31): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(35,31): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,57): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,57): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,57): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,57): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,43): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,43): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,43): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(36,43): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,50): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,50): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,50): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,50): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,32): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,32): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,32): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(42,32): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,68): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,68): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,68): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,68): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,42): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,42): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,42): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(43,42): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,39): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,39): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,39): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,39): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,30): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,30): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,30): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(49,30): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,54): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,54): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,54): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,54): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,40): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,40): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,40): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(50,40): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,54): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,54): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,54): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,54): warning C4244:         ]
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,41): warning C4244:         with
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,41): warning C4244:         [
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,41): warning C4244:             T=float
+C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\CGT-215-Lab-07-hendr128.cpp(57,41): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67): warning C4244:         ]
+  (compiling source file 'CGT-215-Lab-07-hendr128.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\type_traits(1811,67):
+      the template instantiation context (the oldest one first) is
+          C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\PhysicsRectangle.h(7,37):
+          see reference to class template instantiation 'sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>' being compiled
+          C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\PhysicsShapeT.h(44,2):
+          while compiling class template member function 'sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::PhysicsShapeT(void)'
+              C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\PhysicsRectangle.h(8,6):
+              see the first reference to 'sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::PhysicsShapeT' in 'sfp::PhysicsRectangle::PhysicsRectangle'
+          C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\packages\SFPhysics.2.3.2\build\native\include\SFPhysics\PhysicsShapeT.h(53,39):
+          see reference to function template instantiation 'std::function<void (float)> &std::function<void (float)>::operator =<sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(1307,35):
+          see reference to function template instantiation 'std::function<void (float)>::function<sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(1238,15):
+          see reference to function template instantiation 'void std::_Func_class<_Ret,float>::_Reset<_Ty>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=void,
+              _Ty=sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,
+              _Fx=sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(1104,23):
+          see reference to variable template 'const bool _Is_large<std::_Func_impl_no_alloc<`sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>'::`2'::<lambda_3>,void,float> >' being compiled
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(873,28):
+          see reference to class template instantiation 'std::_Func_impl_no_alloc<sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,_Ret,float>' being compiled
+          with
+          [
+              _Ret=void
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(1003,9):
+          while compiling class template member function '_Rx std::_Func_impl_no_alloc<sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,_Rx,float>::_Do_call(float &&)'
+          with
+          [
+              _Rx=void
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\functional(1005,25):
+          see reference to function template instantiation 'void std::invoke<_Callable&,_Ty,>(sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>&,_Ty1 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=sfp::PhysicsShapeT<sfp::CenteredRectangle,sfp::AABB>::{ctor}::<lambda_3>,
+              _Ty=float,
+              _Ty1=float
+          ]
+  
+  CGT-215-Lab-07-hendr128.vcxproj -> C:\Users\wealt\Documents\adamhendrickson22-github\CGT-215\CGT-215-Lab-07-hendr128\x64\Debug\CGT-215-Lab-07-hendr128.exe
